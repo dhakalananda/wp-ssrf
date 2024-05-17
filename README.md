@@ -2,7 +2,7 @@
 
 This is a repository that contains the vulnerable WordPress docker instance and the exploit script to play around and test with.
 
-The full research article of this repo can be found here (Patchstack link).
+The full research article of this repo can be found [here](https://patchstack.com/articles/exploring-the-unpatched-wordpress-ssrf/).
 
 ### Installation
 
